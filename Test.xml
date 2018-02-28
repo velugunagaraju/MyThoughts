@@ -1,0 +1,8 @@
+<suite name="example suite 1"  >
+  <test name="Regression suite 1" >
+    <classes>
+      <class name="com.Selenium.com.Selenium.TestNg.Login"/>
+     
+    </classes>
+ </test>
+</suite>
